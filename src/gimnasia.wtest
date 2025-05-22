@@ -3,6 +3,7 @@ import gimnasia.*
 describe "rutinas" {
 
 //Punto 1: rutinas
+	
 //	const correrEnLaPlaya = // Una actividad de running con intensisdad 1.2
 //	const remarEnElDelta = // Una actividad de remo
 //	const remarEnCaminoRemeros = // Una actividad de remo comptetitivo
